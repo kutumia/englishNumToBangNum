@@ -1,0 +1,25 @@
+{
+  "name": "engnumber-to-banglanumber",
+  "version": "",
+  "description": "english number will be converted to bangla number",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kutumia/englishNumToBangNum.git"
+  },
+  "keywords": [
+    "number",
+    "translate",
+    "bangla",
+    "english number to bangla number"
+  ],
+  "author": "Mohaimin Rahman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kutumia/englishNumToBangNum.git"
+  },
+  "homepage": "https://github.com/kutumia/englishNumToBangNum.git"
+}
