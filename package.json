@@ -1,6 +1,6 @@
 {
   "name": "engnumber-to-banglanumber",
-  "version": "",
+  "version": "1.0.1",
   "description": "english number will be converted to bangla number",
   "main": "index.js",
   "scripts": {
